@@ -9,7 +9,7 @@ import static me.ezcoins.ezpets.Utils.makeItem;
 
 public class GuiUtils  {
 
-    protected static ItemStack FILLER_GLASS = makeItem(Material.GRAY_STAINED_GLASS_PANE, " ", 1, 15);
+    public static ItemStack FILLER_GLASS = makeItem(Material.GRAY_STAINED_GLASS_PANE, " ", 1, 15);
 
 
 
