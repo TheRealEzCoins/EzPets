@@ -1,0 +1,13 @@
+name: EzPets
+version: '${project.version}'
+main: me.ezcoins.ezpets.EzPets
+api-version: 1.18
+depend:
+  - EzMiner
+commands:
+  Pets:
+    description: aaa
+    usage: /<command>
+  GivePet:
+    description: aaaa
+    usage: /<command>
