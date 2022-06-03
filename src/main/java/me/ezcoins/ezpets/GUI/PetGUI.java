@@ -1,11 +1,10 @@
 package me.ezcoins.ezpets.GUI;
 
-import me.ezcoins.ezpets.EzPets;
 import me.ezcoins.ezpets.Pets;
 import me.ezcoins.ezpets.Utils;
+import me.ezplugin.Utils.GuiUtils;
 import org.bukkit.Bukkit;
 import org.bukkit.Material;
-import org.bukkit.NamespacedKey;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.Inventory;
 import org.bukkit.inventory.ItemStack;
